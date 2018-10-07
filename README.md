@@ -28,3 +28,7 @@ Examples:
   * Use GPU acceleration, with the likes of CUDA. CUDA seemed kind of intimidating, so I avoided it in favor of armadillo.
   
 Anyways, nobody is going to read any of this. This is just a personal project I've been working on to try and get a better understanding of machine learning.
+
+# Also
+
+The training images is too large of a file to put in this repo. The training and testing files that I used for this network can be found at the MNIST database: http://yann.lecun.com/exdb/mnist/
