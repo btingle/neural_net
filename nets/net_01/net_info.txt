@@ -1,0 +1,6 @@
+2
+2.000000
+training/train-images.idx3-ubyte
+training/train-labels.idx1-ubyte
+testing/t10k-images.idx3-ubyte
+testing/t10k-labels.idx1-ubyte

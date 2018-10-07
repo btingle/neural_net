@@ -1,0 +1,6 @@
+1
+0.002000
+training/train-images.idx3-ubyte
+training/train-labels.idx1-ubyte
+na
+na
